@@ -29,3 +29,15 @@ Ce script vous permet de dm all tous vos amis sur discord.
 <br>
 </p>
 <br>
+
+### <p align="center">**🌑 CREDITS 🌑**</p>
+
+<br><br>
+<p align="center">
+<strong>
+Moi même
+Billythegoat356, Berserker
+<br>
+</strong>
+</p>
+<br>
