@@ -17,7 +17,7 @@ Ce script vous permet de dm all tous vos amis sur discord.
 </p>
 <br>
 
-### <p align="center">📒 LES ETAPES 📒</p>
+### <p align="center">**📒 LES ETAPES 📒**</p>
 
 <br><br>
 <p align="center">
