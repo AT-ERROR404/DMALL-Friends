@@ -25,7 +25,7 @@ Ce script vous permet de dm all tous vos amis sur discord.
 <p align="center">
 2. Ensuite mets ton token, le message que tu veux envoyer et ton prefix dans config.json
 <p align="center">
-3. Lance le dmall.py dans un cmd : `python dmall.py`
+3. Lance le dmall.py dans un cmd : python dmall.py
 <br>
 </p>
 <br>
