@@ -36,8 +36,8 @@ Ce script vous permet de dm all tous vos amis sur discord.
 <p align="center">
 <strong>
 Moi même.
-
-Billythegoat356, Berserker.
+<p align="center">
+https://github.com/billythegoat356/Berserker
 <br>
 </strong>
 </p>
