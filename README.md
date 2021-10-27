@@ -46,3 +46,16 @@ https://github.com/billythegoat356/Berserker
 </strong>
 </p>
 <br>
+
+-----
+
+### <p align="center">**⚠ DISCLAIMER ⚠**</p>
+
+<br><br>
+<p align="center">
+<strong>
+En aucun cas je serais responsable si votre compte est banni.
+<br>
+</strong>
+</p>
+<br>
