@@ -7,3 +7,12 @@
 -----
 
 ### <p align="center">📦 DMALL Friends 📦</p>
+
+<br><br>
+<p align="center">
+<strong>
+Ce script vous permet de dm all tous vos amis sur discord.
+<br>
+</strong>
+</p>
+<br>
