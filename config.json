@@ -1,6 +1,4 @@
 {
     "token": "YOUR_TOKEN",
-    "message_dm": "YOUR_MESSAGE",
     "prefix": "+"
-
 }
